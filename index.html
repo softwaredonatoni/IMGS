@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lista di immagini</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      color: #222;
+    }
+
+    header {
+      text-align: center;
+      padding: 32px 16px;
+      background: white;
+      border-bottom: 1px solid #ddd;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 32px;
+    }
+
+    .gallery {
+      max-width: 1000px;
+      margin: 32px auto;
+      padding: 0 16px;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 20px;
+    }
+
+    .card {
+      background: white;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    }
+
+    .card img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+      display: block;
+    }
+
+    .card p {
+      margin: 0;
+      padding: 14px;
+      font-size: 16px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>La mia lista di immagini</h1>
+  </header>
+
+  <main class="gallery">
+    <div class="card">
+      <img src="https://picsum.photos/id/1015/600/400" alt="Paesaggio di montagna" />
+      <p>Montagna</p>
+    </div>
+
+    <div class="card">
+      <img src="https://picsum.photos/id/1025/600/400" alt="Cane" />
+      <p>Cane</p>
+    </div>
+
+    <div class="card">
+      <img src="https://picsum.photos/id/1035/600/400" alt="Foresta" />
+      <p>Foresta</p>
+    </div>
+
+    <div class="card">
+      <img src="https://picsum.photos/id/1043/600/400" alt="Mare" />
+      <p>Mare</p>
+    </div>
+	
+	  <div class="card">
+      <img src="https://picsum.photos/id/1015/600/400" alt="Paesaggio di montagna" />
+      <p>Montagna</p>
+    </div>
+
+    <div class="card">
+      <img src="https://picsum.photos/id/1025/600/400" alt="Cane" />
+      <p>Cane</p>
+    </div>
+
+    <div class="card">
+      <img src="https://picsum.photos/id/1035/600/400" alt="Foresta" />
+      <p>Foresta</p>
+    </div>
+
+    <div class="card">
+      <img src="images/AMBERONIX_01" alt="Mare" />
+      <p>Mare</p>
+    </div>
+	
+
+  </main>
+</body>
+</html>
