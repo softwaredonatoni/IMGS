@@ -1,51 +1,58 @@
 [
   {
     "Name": "AMBERONIX_02.jpg",
-    "FullName": "C:\\Users\\donatoni\\Pictures\\IMAGES\\AMBERONIX_02.jpg",
+    "FullName": "\\AMBERONIX_02.jpg",
     "CreationDate": "2025-09-11T17:45:58.6629781+02:00",
     "LastWriteDate": "2025-09-11T17:32:48.6256111+02:00",
     "CaptureDate": "2025-09-11T17:45:58.6629781+02:00"
   },
   {
     "Name": "CALACATTAANTICO_01.jpg",
-    "FullName": "C:\\Users\\donatoni\\Pictures\\IMAGES\\CALACATTAANTICO_01.jpg",
+    "FullName": "\\CALACATTAANTICO_01.jpg",
     "CreationDate": "2025-09-11T17:45:58.7465245+02:00",
     "LastWriteDate": "2025-09-11T16:57:08.3790014+02:00",
     "CaptureDate": "2025-09-11T17:45:58.7465245+02:00"
   },
   {
     "Name": "CIPOLLINO_01.jpg",
-    "FullName": "C:\\Users\\donatoni\\Pictures\\IMAGES\\CIPOLLINO_01.jpg",
+    "FullName": "\\CIPOLLINO_01.jpg",
     "CreationDate": "2025-09-11T17:45:58.8141493+02:00",
     "LastWriteDate": "2025-09-11T17:34:22.1159978+02:00",
     "CaptureDate": "2025-09-11T17:45:58.8141493+02:00"
   },
   {
     "Name": "ROSSO_B_02.jpg",
-    "FullName": "C:\\Users\\donatoni\\Pictures\\IMAGES\\ROSSO_B_02.jpg",
+    "FullName": "\\ROSSO_B_02.jpg",
     "CreationDate": "2025-09-11T17:45:58.9766511+02:00",
     "LastWriteDate": "2025-09-11T14:19:05.2978359+02:00",
     "CaptureDate": "2025-09-11T17:45:58.9766511+02:00"
   },
   {
     "Name": "SHARANOIR_01.jpg",
-    "FullName": "C:\\Users\\donatoni\\Pictures\\IMAGES\\SHARANOIR_01.jpg",
+    "FullName": "\\SHARANOIR_01.jpg",
     "CreationDate": "2025-09-11T17:45:58.9878268+02:00",
     "LastWriteDate": "2025-09-11T15:06:48.5221875+02:00",
     "CaptureDate": "2025-09-11T17:45:58.9878268+02:00"
   },
   {
     "Name": "NAICO_03.jpg",
-    "FullName": "C:\\Users\\donatoni\\Pictures\\IMAGES\\NAICO_03.jpg",
+    "FullName": "\\NAICO_03.jpg",
     "CreationDate": "2026-07-02T18:20:04.1213478+02:00",
     "LastWriteDate": "2026-07-02T18:25:47.4105404+02:00",
     "CaptureDate": "2026-07-02T18:20:04.1213478+02:00"
   },
   {
     "Name": "BARDIGLIO_02.jpg",
-    "FullName": "C:\\Users\\donatoni\\Pictures\\IMAGES\\BARDIGLIO_02.jpg",
+    "FullName": "\\BARDIGLIO_02.jpg",
     "CreationDate": "2026-07-03T13:20:33.9540971+02:00",
     "LastWriteDate": "2026-07-03T13:20:36.4435056+02:00",
     "CaptureDate": "2026-07-03T13:20:33.9540971+02:00"
+  },
+  {
+    "Name": "AMBERONIX_02.jpg",
+    "FullName": "\\CARTELLA\\AMBERONIX_02.jpg",
+    "CreationDate": "2026-07-29T11:12:33.1052162+02:00",
+    "LastWriteDate": "2025-09-11T17:32:48.6256111+02:00",
+    "CaptureDate": "2026-07-29T11:12:33.1052162+02:00"
   }
 ]
