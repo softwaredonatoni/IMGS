@@ -1,24 +1,10 @@
 [
   {
-    "Name": "1.JPG",
-    "FullName": "C:\\Users\\s.benedetti\\Pictures\\DCIM\\1.JPG",
-    "CreationDate": "2026-07-29T10:06:06.8595868+02:00",
-    "LastWriteDate": "2021-06-30T11:31:36+02:00",
-    "CaptureDate": "2026-07-29T10:06:06.8595868+02:00"
-  },
-  {
-    "Name": "20260224154601_26_0002-3_Rev.01_render.png",
-    "FullName": "C:\\Users\\s.benedetti\\Pictures\\DCIM\\20260224154601_26_0002-3_Rev.01_render.png",
-    "CreationDate": "2026-07-29T10:33:41.3541412+02:00",
-    "LastWriteDate": "2026-02-24T15:46:06.8394848+01:00",
-    "CaptureDate": "2026-07-29T10:33:41.3541412+02:00"
-  },
-  {
-    "Name": "33.JPG",
-    "FullName": "C:\\Users\\s.benedetti\\Pictures\\DCIM\\33.JPG",
-    "CreationDate": "2026-07-29T10:06:06.8670379+02:00",
-    "LastWriteDate": "2021-06-09T10:19:04+02:00",
-    "CaptureDate": "2026-07-29T10:06:06.8670379+02:00"
+    "Name": "IMG20260120114320.jpg",
+    "FullName": "C:\\Users\\s.benedetti\\Pictures\\DCIM\\IMG20260120114320.jpg",
+    "CreationDate": "2026-07-29T10:05:04.2452057+02:00",
+    "LastWriteDate": "2026-07-29T10:04:55.6045463+02:00",
+    "CaptureDate": "2026-01-20T11:43:20"
   },
   {
     "Name": "IMG20260120114320.jpg",
@@ -35,6 +21,20 @@
     "CaptureDate": "2026-07-23T14:14:34"
   },
   {
+    "Name": "IMG20260723141434.jpg",
+    "FullName": "C:\\Users\\s.benedetti\\Pictures\\DCIM\\IMG20260723141434.jpg",
+    "CreationDate": "2026-07-29T10:05:04.2622038+02:00",
+    "LastWriteDate": "2026-07-29T10:04:33.1023494+02:00",
+    "CaptureDate": "2026-07-23T14:14:34"
+  },
+  {
+    "Name": "IMG20260724191023.jpg",
+    "FullName": "C:\\Users\\s.benedetti\\Pictures\\DCIM\\IMG20260724191023.jpg",
+    "CreationDate": "2026-07-29T10:05:04.2987533+02:00",
+    "LastWriteDate": "2026-07-29T10:04:18.6960907+02:00",
+    "CaptureDate": "2026-07-24T19:10:23"
+  },
+  {
     "Name": "IMG20260724191023.jpg",
     "FullName": "C:\\Users\\s.benedetti\\Pictures\\DCIM\\IMG20260724191023.jpg",
     "CreationDate": "2026-07-29T10:05:04.2987533+02:00",
@@ -47,6 +47,62 @@
     "CreationDate": "2026-07-29T10:05:04.2801989+02:00",
     "LastWriteDate": "2026-07-29T10:04:24.4646083+02:00",
     "CaptureDate": "2026-07-24T19:14:11"
+  },
+  {
+    "Name": "IMG20260724191411.jpg",
+    "FullName": "C:\\Users\\s.benedetti\\Pictures\\DCIM\\IMG20260724191411.jpg",
+    "CreationDate": "2026-07-29T10:05:04.2801989+02:00",
+    "LastWriteDate": "2026-07-29T10:04:24.4646083+02:00",
+    "CaptureDate": "2026-07-24T19:14:11"
+  },
+  {
+    "Name": "VERDE_ALPI_4.JPG",
+    "FullName": "C:\\Users\\s.benedetti\\Pictures\\DCIM\\VERDE_ALPI_4.JPG",
+    "CreationDate": "2026-07-29T10:06:06.8535841+02:00",
+    "LastWriteDate": "2021-05-04T14:38:52+02:00",
+    "CaptureDate": "2026-07-29T10:06:06.8535841+02:00"
+  },
+  {
+    "Name": "VERDE_ALPI_4.JPG",
+    "FullName": "C:\\Users\\s.benedetti\\Pictures\\DCIM\\VERDE_ALPI_4.JPG",
+    "CreationDate": "2026-07-29T10:06:06.8535841+02:00",
+    "LastWriteDate": "2021-05-04T14:38:52+02:00",
+    "CaptureDate": "2026-07-29T10:06:06.8535841+02:00"
+  },
+  {
+    "Name": "1.JPG",
+    "FullName": "C:\\Users\\s.benedetti\\Pictures\\DCIM\\1.JPG",
+    "CreationDate": "2026-07-29T10:06:06.8595868+02:00",
+    "LastWriteDate": "2021-06-30T11:31:36+02:00",
+    "CaptureDate": "2026-07-29T10:06:06.8595868+02:00"
+  },
+  {
+    "Name": "1.JPG",
+    "FullName": "C:\\Users\\s.benedetti\\Pictures\\DCIM\\1.JPG",
+    "CreationDate": "2026-07-29T10:06:06.8595868+02:00",
+    "LastWriteDate": "2021-06-30T11:31:36+02:00",
+    "CaptureDate": "2026-07-29T10:06:06.8595868+02:00"
+  },
+  {
+    "Name": "33.JPG",
+    "FullName": "C:\\Users\\s.benedetti\\Pictures\\DCIM\\33.JPG",
+    "CreationDate": "2026-07-29T10:06:06.8670379+02:00",
+    "LastWriteDate": "2021-06-09T10:19:04+02:00",
+    "CaptureDate": "2026-07-29T10:06:06.8670379+02:00"
+  },
+  {
+    "Name": "33.JPG",
+    "FullName": "C:\\Users\\s.benedetti\\Pictures\\DCIM\\33.JPG",
+    "CreationDate": "2026-07-29T10:06:06.8670379+02:00",
+    "LastWriteDate": "2021-06-09T10:19:04+02:00",
+    "CaptureDate": "2026-07-29T10:06:06.8670379+02:00"
+  },
+  {
+    "Name": "TA45.JPG",
+    "FullName": "C:\\Users\\s.benedetti\\Pictures\\DCIM\\TA45.JPG",
+    "CreationDate": "2026-07-29T10:06:06.8740455+02:00",
+    "LastWriteDate": "2021-06-07T15:00:48+02:00",
+    "CaptureDate": "2026-07-29T10:06:06.8740455+02:00"
   },
   {
     "Name": "TA45.JPG",
@@ -63,6 +119,20 @@
     "CaptureDate": "2026-07-29T10:06:06.8810462+02:00"
   },
   {
+    "Name": "TS_45.JPG",
+    "FullName": "C:\\Users\\s.benedetti\\Pictures\\DCIM\\TS_45.JPG",
+    "CreationDate": "2026-07-29T10:06:06.8810462+02:00",
+    "LastWriteDate": "2021-06-03T10:54:02+02:00",
+    "CaptureDate": "2026-07-29T10:06:06.8810462+02:00"
+  },
+  {
+    "Name": "TS_56.JPG",
+    "FullName": "C:\\Users\\s.benedetti\\Pictures\\DCIM\\TS_56.JPG",
+    "CreationDate": "2026-07-29T10:06:06.8890398+02:00",
+    "LastWriteDate": "2021-06-03T09:36:18+02:00",
+    "CaptureDate": "2026-07-29T10:06:06.8890398+02:00"
+  },
+  {
     "Name": "TS_56.JPG",
     "FullName": "C:\\Users\\s.benedetti\\Pictures\\DCIM\\TS_56.JPG",
     "CreationDate": "2026-07-29T10:06:06.8890398+02:00",
@@ -77,10 +147,24 @@
     "CaptureDate": "2026-07-29T10:06:06.8950487+02:00"
   },
   {
-    "Name": "VERDE_ALPI_4.JPG",
-    "FullName": "C:\\Users\\s.benedetti\\Pictures\\DCIM\\VERDE_ALPI_4.JPG",
-    "CreationDate": "2026-07-29T10:06:06.8535841+02:00",
-    "LastWriteDate": "2021-05-04T14:38:52+02:00",
-    "CaptureDate": "2026-07-29T10:06:06.8535841+02:00"
+    "Name": "VELLUTO10.JPG",
+    "FullName": "C:\\Users\\s.benedetti\\Pictures\\DCIM\\VELLUTO10.JPG",
+    "CreationDate": "2026-07-29T10:06:06.8950487+02:00",
+    "LastWriteDate": "2021-06-23T10:10:40+02:00",
+    "CaptureDate": "2026-07-29T10:06:06.8950487+02:00"
+  },
+  {
+    "Name": "20260224154601_26_0002-3_Rev.01_render.png",
+    "FullName": "C:\\Users\\s.benedetti\\Pictures\\DCIM\\20260224154601_26_0002-3_Rev.01_render.png",
+    "CreationDate": "2026-07-29T10:33:41.3541412+02:00",
+    "LastWriteDate": "2026-02-24T15:46:06.8394848+01:00",
+    "CaptureDate": "2026-07-29T10:33:41.3541412+02:00"
+  },
+  {
+    "Name": "20260224154601_26_0002-3_Rev.01_render.png",
+    "FullName": "C:\\Users\\s.benedetti\\Pictures\\DCIM\\20260224154601_26_0002-3_Rev.01_render.png",
+    "CreationDate": "2026-07-29T10:33:41.3541412+02:00",
+    "LastWriteDate": "2026-02-24T15:46:06.8394848+01:00",
+    "CaptureDate": "2026-07-29T10:33:41.3541412+02:00"
   }
 ]
